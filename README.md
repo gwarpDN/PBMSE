@@ -40,3 +40,6 @@ https://docs.google.com/document/d/1zAIe6Eg8OM8_glh5b19iwOySvZxSvR4Nq_LuiyN52L8/
 https://www.youtube.com/playlist?list=PLYckRCzMPugwTEQwiZIbCP78bHyWAbwzE
 * Mesh index for 9.0 models, if you are a modder or wanna become one, this would be helpful to you; if not, you dont need to click this.
 https://docs.google.com/spreadsheets/d/1atNXrNAqR7jQlK4Je9VVWyuFzXlvRUnkff6u4TD0G2E/edit?usp=sharing
+
+# LICENSE
+You may include my files in your own works (mod or artwork) and alter them in any way. Just credit me if you wish to publish your works.
