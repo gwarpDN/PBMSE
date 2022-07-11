@@ -22,7 +22,7 @@ original post: https://forums.darknestfantasy.com/index.php?threads/9-2-beta-pet
 1. Download and install the Arctium App (not affiliated with me or DN) at https://arctium.io/app
 2. Run the Arctium app, click Install Retail Launcher
 3. Go to Launcher tab on the left (rocket), create mod folder (+ button) for mod files, default X:\arctium\files\
-4. Download the PBMSE archive and extract to the mod folder _(on github, click green code button, and click download ZIP)_
+4. Download the PBMSE archive and extract to the mod folder _(click Release link on the right, then click Source code (zip))_
 5. Click Launch
 6. Enjoy!
 7. (For Arctium launcher related question, head to their discord channel https://arctium.io/discord)
