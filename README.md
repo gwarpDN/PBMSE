@@ -29,9 +29,9 @@ original post: https://forums.darknestfantasy.com/index.php?threads/9-2-beta-pet
 
 # KNOWN ISSUE
 
-* distort when zoom out, especially in dungeon and raids. i advice against using any mods when doing serious contents, but this addon should able to mitigate some of the issue.
-* seams on limbs, etc. a tooling problem due to the utilities used to edit models, not sure i can fix it without resorting rework.
-* AS OF 2022/03/17, THERE ARE NEW CUSTOMISATIONS ADDED TO LIGHTFORGED DRAENEI THAT NEEDS CUSTOM ART, IT'S NOT READY YET
+* distort when zoom out, especially in dungeon and raids. i advice against using any mods when doing serious contents. (this addon should fix it https://www.curseforge.com/wow/addons/entity-lod)
+* seams on limbs, etc. it's a technical issue due to the utilities we used to edit models, not sure i can fix it without resorting rework.
+* as of 2022/03/17, new customisation options added to lightforged draenei in 9.2.5 is not supported.
 
 # PREVIEW
 * Google Doc
